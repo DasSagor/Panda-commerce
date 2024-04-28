@@ -1,0 +1,63 @@
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px
+ 
+}
+.carousel-item{
+    padding: 20px 30px;
+    padding-left: 40px;
+
+}
+.price{
+    color: rgb(153, 71, 36);
+}
+.container{
+    margin-bottom: 80px;
+}
+
+.cat-color1, .cat-color2, .cat-color3{
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.cat-color1{
+    background-color: orange;
+   
+}
+.cat-color2{
+    background-color: palevioletred;
+   
+}
+.cat-color3{
+    background-color: royalblue;
+  
+}
+.catagories h2{
+    color: white;
+}
+.container h4{
+    padding-bottom: 15px;
+}
+.shoes-price{
+    font-size: x-large;
+    font-weight: bolder;
+    padding-bottom: 8px;
+}
+.card-text{
+    
+    text-align: center;
+}
+.card{
+    border-radius: 8px;
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe p{
+    color: gray;
+}
+footer{
+    text-align: center;
+    color: lightcoral;
+}
